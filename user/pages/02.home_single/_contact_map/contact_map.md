@@ -15,8 +15,8 @@ Use the `Contact map` module to tell your customers position and how they can ge
 ___
 
 [g-section name="map"]
-[g-map id=map zoom=12 center="41.90278,12.49637"]
-[g-map-marker location="41.90278, 12.49637" title="Gravstrap theme"]
+[g-map id=map zoom=12 center="45.066720, -93.124115"]
+[g-map-marker location="45.066720, -93.124115" title="Independence Party Location"]
 **Meet Us**
 We are there!
 [/g-map-marker]
@@ -26,20 +26,20 @@ We are there!
 [g-section name="info"]
 #####OFFICE
 
-9 - 3815 Thatcher Avenue  
-Saskatoon, Saskatchewan  
+9 - 3815 Thatcher Avenue
+Saskatoon, Saskatchewan
 S7R 1A3
 
 #####CONTACT INFORMATION
 
-**Primary Phone:** 1 (555) 555 - 6666  
-**Alternate Phone:** 1 (555) 555 - 7777  
+**Primary Phone:** 1 (555) 555 - 6666
+**Alternate Phone:** 1 (555) 555 - 7777
 **Fax:** 1 (555) 555 - 8888
 
 
 #####OFFICE HOURS
 
-Monday - Friday 8 am - 5 pm  
-Saturday - Sunday Closed  
+Monday - Friday 8 am - 5 pm
+Saturday - Sunday Closed
 [/g-section]
 [/g-contacts-map]
